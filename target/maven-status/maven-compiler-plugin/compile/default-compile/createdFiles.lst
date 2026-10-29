@@ -1,0 +1,17 @@
+com\library\servlet\LogoutServlet.class
+com\library\dao\MemberDAO$BorrowedBook.class
+com\library\servlet\BorrowServlet.class
+com\library\servlet\DashboardServlet.class
+com\library\servlet\ReturnServlet.class
+com\library\dao\ReturnDAO.class
+com\library\servlet\BooksServlet.class
+com\library\util\DBConnection.class
+com\library\dao\LoginDAO.class
+com\library\util\DBConnectionTest.class
+com\library\util\PasswordUtil.class
+com\library\servlet\LoginServlet.class
+com\library\dao\BookDAO.class
+com\library\dao\BookDAO$Book.class
+com\library\dao\MemberDAO.class
+com\library\dao\MemberDAO$Member.class
+com\library\util\LoginSetup.class
